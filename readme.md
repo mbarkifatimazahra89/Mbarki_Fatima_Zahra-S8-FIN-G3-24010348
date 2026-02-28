@@ -79,7 +79,7 @@ sns.barplot(
 
 ## 📁 Structure du Notebook
 
-### Formation_ML_&_DL:_S1_Apprentissage_supervisé_(Mbarki_Fatima_Zahra_S8-FIN-G3-24010348).ipynb
+### Formation_ML_&_DL:_S1_Apprentissage_supervisé_(Mbarki_Fatima_Zahra-S8-FIN-G3-24010348).ipynb
 ```
 ├── 01. Chargement & Exploration des données
 ├── 02. Prétraitement (80/20 train/test)
