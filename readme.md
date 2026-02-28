@@ -3,7 +3,7 @@
 ## 📋 Informations personnelles
 
 ---
-<img src="Mbarki Fatima Zahra.jpeg" style="height:300px;margin-right:300px; float:left; border-radius:10px;"/>
+<img src="Mbarki Fatima Zahra.jpg" style="height:300px;margin-right:300px; float:left; border-radius:10px;"/>
 ---
 
 **Nom complet** : **Mbarki Fatima Zahra **  
